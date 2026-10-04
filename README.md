@@ -21,9 +21,6 @@ FreshThread helps you see when a session is getting overloaded and move the impo
 
 **FreshThread is a Windows companion with a dedicated Codex plugin for tracking long sessions, compaction pressure, and carrying working context into fresh tasks.**
 
-> **Before:** in a 372-turn session, Codex got stuck on one fix and kept repeating failed attempts.<br>
-> **After handoff:** the same fix, in a fresh task that already knew the context, worked on the first try.
-
 <blockquote>
 <details>
 <summary>💡 <strong>Codex Plugin Integration</strong></summary>
