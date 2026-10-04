@@ -48,8 +48,6 @@ Its panel shows available context usage, completed turns, compactions and handof
 readiness. A handoff summarizes your goal, constraints, completed work and next
 steps. You review and approve it before moving to a new task.
 
-[![Watch the FreshThread demo on YouTube (1:07)](assets/freshthread-demo-cover-v2.png)](https://www.youtube.com/watch?v=rbEC1oFzns4)
-
 ## Reading the panel
 
 The panel updates live as you work, following the selected session as Codex
